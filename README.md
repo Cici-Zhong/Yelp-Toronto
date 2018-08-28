@@ -33,3 +33,5 @@ Business Owners, to make important decisions regarding new business or business
 expansion.
 Backgroud:
 
+The logic I used is the recent advanced Stanford NLP, statics and management model.  
+
